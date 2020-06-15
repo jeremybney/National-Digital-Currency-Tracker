@@ -2,8 +2,8 @@
 Data compilation and design by the Harvard Kennedy School's Belfer Center for Science and International Affairs and by Atlantic Council's Global Business and Economics Program
 
 Tracker for global CBDC developments: https://www.belfercenter.org/publication/national-digital-currencies-future-money	
-	
-Definitions	
+
+###### Definitions	
 ## Research
 Established working groups to explore the use cases, impact, and feasibility of CBDC
 ## Development
