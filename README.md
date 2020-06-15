@@ -17,4 +17,4 @@ Not exploring CBDC
 ## Cancelled
 CBDC initiative decommissioned 
 	
-Note: A CBDC is a digital currency that is issued by, and is a liability of, a country's central bank. Digital currency projects that are not backed by the central bank are generally not included in the tracker.	
+###### Note: A CBDC is a digital currency that is issued by, and is a liability of, a country's central bank. Digital currency projects that are not backed by the central bank are generally not included in the tracker.	
